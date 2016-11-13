@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1476025039 source:n:\program files\codeblocks\proj\whatsapp\001\main.cpp
-	<iostream>
-	<stdlib.h>
-	<windows.h>
-
